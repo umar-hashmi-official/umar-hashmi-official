@@ -17,7 +17,6 @@ I’m a *Software Engineering Student* and *UI/UX Designer* passionate about cre
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -30,9 +29,6 @@ A showcase of my best UI/UX design projects, case studies, and wireframes. Built
 
 ### [💡 Smart Home Automation System](https://github.com/YourUsername/smart-home-automation)
 A full-stack project that automates home appliances using IoT. Written in *Python* with a web interface built with *React*.
-
-### [🌐 E-Commerce Platform](https://github.com/YourUsername/ecommerce-platform)
-A fully functional e-commerce website built using *React* and *Node.js*, featuring a custom-designed user experience.
 
 ---
 
